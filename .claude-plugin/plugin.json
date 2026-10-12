@@ -1,0 +1,9 @@
+{
+  "name": "session-line",
+  "version": "0.1.0",
+  "description": "Status line with context fill, model, effort, git branch or worktree, rate limits and cost",
+  "author": {
+    "name": "Christophe Jossart"
+  },
+  "repository": "https://github.com/colorfield/claude-session-line"
+}

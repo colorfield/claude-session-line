@@ -1,0 +1,16 @@
+{
+  "name": "claude-session-line",
+  "owner": {
+    "name": "Christophe Jossart"
+  },
+  "metadata": {
+    "description": "Status line with context fill, model, effort, git branch or worktree, rate limits and cost"
+  },
+  "plugins": [
+    {
+      "name": "session-line",
+      "source": "./",
+      "description": "Status line with context fill, model, effort, git branch or worktree, rate limits and cost"
+    }
+  ]
+}
